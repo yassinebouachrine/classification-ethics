@@ -17,7 +17,7 @@ Construire un pipeline fiable (prétraitement → TF‑IDF → sélection → r�
 Installer rapidement :
 
 ```bash
-pip install numpy pandas scikit-learn xgboost lightgbm joblib matplotlib seaborn datasets
+!pip install numpy pandas scikit-learn xgboost lightgbm joblib matplotlib seaborn datasets
 ```
 
 ## Exécution
