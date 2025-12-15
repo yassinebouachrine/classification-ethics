@@ -2,6 +2,7 @@
 
 **Description courte**
 Un pipeline compact pour classifier des énoncés moraux (Éthique vs Non-Éthique) en utilisant le dataset `hendrycks/ethics (commonsense)`.
+dataset : https://huggingface.co/datasets/hendrycks/ethics/tree/main/data/commonsense
 
 **But**
 Construire un pipeline fiable (prétraitement → TF‑IDF → sélection → réduction → features manuelles → classifieurs) tout en évitant les fuites de données (leakage).
